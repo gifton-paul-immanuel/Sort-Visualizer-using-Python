@@ -2,7 +2,7 @@
 This tool helps us to visualise sorting algorithms in our specified time speed. It also has the ability to be implemented in any code editors or for every version of python which has tkinter in it. I have implemented Bubble sort, Merge sort, Insertion sort and Selection sort with this tool.
 
 # METHODOLOGY
-	This project’s code starts with basic import statements for importing the needed modules like tkinter, time and random.
+This project’s code starts with basic import statements for importing the needed modules like tkinter, time and random.
 •	Tkinter – Python’s GUI module
 •	Time – Used for doing specific functions related to time
 •	Random – Used for randomization and creating random values with specific conditions
